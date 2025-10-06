@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "nb_cargarBalanceCatalunna_Silver",
+    "description": "carga de hechos a facdiario en la capa silver "
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "49c76849-5725-98a1-4ee6-708cebe68e7d"
+  }
+}

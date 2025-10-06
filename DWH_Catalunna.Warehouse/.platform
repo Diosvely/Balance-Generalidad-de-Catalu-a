@@ -1,12 +1,11 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
-    "type": "Lakehouse",
-    "displayName": "lh_datoscrudoCataluña",
-    "description": "Datos crudos desde el excel "
+    "type": "Warehouse",
+    "displayName": "DWH_Catalunna"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "f68d576a-e303-b961-4999-392e5615efcd"
+    "logicalId": "94b344c9-fd3d-aa4c-468c-d64e63a3e4ff"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "nb_cargarPYG_DHW",
+    "description": "A traves de este nb leo los datos del lh y los cargo en un DWH"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2c653c12-5bc1-84b4-4963-2ff4d5b783d3"
+  }
+}

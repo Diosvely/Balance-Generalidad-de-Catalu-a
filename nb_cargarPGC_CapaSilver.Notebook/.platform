@@ -1,12 +1,12 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
-    "type": "Lakehouse",
-    "displayName": "lh_datoscrudoCataluña",
-    "description": "Datos crudos desde el excel "
+    "type": "Notebook",
+    "displayName": "nb_cargarPGC_CapaSilver",
+    "description": ""
   },
   "config": {
     "version": "2.0",
-    "logicalId": "f68d576a-e303-b961-4999-392e5615efcd"
+    "logicalId": "b2bf5083-3198-8e37-4e62-772606ed42db"
   }
 }
